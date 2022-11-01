@@ -1,0 +1,6 @@
+/Users/alexsheen/desktop/github/chirouter-p3-alexsheen-edward3/build/CMakeFiles/chirouter.dir
+/Users/alexsheen/desktop/github/chirouter-p3-alexsheen-edward3/build/CMakeFiles/test-categories.dir
+/Users/alexsheen/desktop/github/chirouter-p3-alexsheen-edward3/build/CMakeFiles/tests.dir
+/Users/alexsheen/desktop/github/chirouter-p3-alexsheen-edward3/build/CMakeFiles/grade.dir
+/Users/alexsheen/desktop/github/chirouter-p3-alexsheen-edward3/build/CMakeFiles/edit_cache.dir
+/Users/alexsheen/desktop/github/chirouter-p3-alexsheen-edward3/build/CMakeFiles/rebuild_cache.dir
